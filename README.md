@@ -1,6 +1,6 @@
-  <h3 align="left">🚀 Full Stack Developer</h3>
-  <h3 align="left">⚡ Next.js • NestJS • PostgreSQL • Docker</h3>
-  <h3 align="left">🌍 Building scalable web applications</h3>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00C4FF&width=700&lines=👋+Hi,+I'm+Soheil+Jafari;🚀+Full+Stack+Developer;⚡+Next.js+•+NestJS+•+PostgreSQL+•+Docker;🌍+Building+Production-Ready+Web+Applications"
+/>
 
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
@@ -119,8 +119,9 @@ Production-ready E-Commerce
       />
     </a>
   </div>
-<br />
+
  <br/>
+
  
 
 ## 🚀 Website
