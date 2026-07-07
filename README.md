@@ -1,9 +1,14 @@
 
   <h3 align="left">Hi there</h3>
-  
-  <h3 align="left">Tech Stack</h3>
-<p align="left">
+  <br/>
+<p>
+  I am Soheil. Full Stack Developer, Specialized in Next.js & NestJS, Passionate about Backend Architecture, Interested in DevOps and Always learning new technologies
+</p>
 
+
+<br/>
+<h3 align="left">Tech Stack</h3>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
 <img src="https://skillicons.dev/icons?i=ts" height="45"/>
 <img src="https://skillicons.dev/icons?i=nestjs" height="45"/>
@@ -17,20 +22,35 @@
 </p>
 
 
-<br/>
-
-  ## 👨‍💻 About Me
-
-- Full Stack Developer
-
-- Specialized in Next.js & NestJS
-
-- Passionate about Backend Architecture
-
-- Interested in DevOps
-
-- Always learning new technologies
-<br/>
+<div align="left">
+    <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+        width="52"
+        height="40"
+        alt="linkedin logo"
+      />
+    </a>
+    <a href="https://www.youtube.com/@mernfa_ir" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+        width="52"
+        height="40"
+        alt="youtube logo"
+      />
+    </a>
+    <a href="https://t.me/soheil_next_dev" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+        width="52"
+        height="40"
+        alt="telegram logo"
+      />
+    </a>
+   <a href="https://mernfa.ir" target="_blank">
+      mernfa.ir
+    </a>
+  </div>
 
 
 ## 🚀 Featured Project
@@ -57,43 +77,7 @@ Production-ready E-Commerce
 
 ## 🚀 My Social
 
-  <div align="left">
-    <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-        width="52"
-        height="40"
-        alt="linkedin logo"
-      />
-    </a>
-    <a href="https://www.youtube.com/@mernfa_ir" target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
-        width="52"
-        height="40"
-        alt="youtube logo"
-      />
-    </a>
-    <a href="https://t.me/soheil_next_dev" target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
-        width="52"
-        height="40"
-        alt="telegram logo"
-      />
-    </a>
-  </div>
+  
 
  <br/>
 
- 
-
-## 🚀 Website
-
-
-  <a href="https://mernfa.ir" target="_blank">
-      mernfa.ir
-    </a>
-  <br />
-
-</article>
