@@ -17,6 +17,10 @@
 </p>
 
 <p>⚡ If you’d like to get in touch, feel free to say hello through any of the social medias.</p>
+   <a href="https://mernfa.ir" target="_blank"  width="52"
+        height="40">
+    My Wesbite
+    </a>
 <div align="left">
     <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
       <img
@@ -41,9 +45,5 @@
         height="40"
         alt="telegram logo"
       />
-    </a>
-   <a href="https://mernfa.ir" target="_blank"  width="52"
-        height="40">
-    🌍
     </a>
   </div>
