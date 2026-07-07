@@ -49,7 +49,7 @@
 
 </p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%98%89+Hello%2C+I+am+Soheil+Jafari;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Fullstack+Developer+with+Next.js+%26+Node.js;%F0%9F%92%BB+My+website+is+mernfa.ir"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🚀 Full Stack Developer;⚡ Next.js • NestJS • PostgreSQL • Docker;🌍 Building scalable web applications"
     alt="Typing SVG"
   />  
   <h3 align="left">my skills</h3>
