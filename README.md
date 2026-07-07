@@ -85,8 +85,10 @@ Production-ready E-Commerce
 
  <a href="https://github.com/soheil-jafari-dev/stripe-shop" target="_blank">Link</a>
  
-  <br />
- ## 🚀 My Social
+
+## 🚀 My Social
+
+
   <div align="left">
     <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
       <img
