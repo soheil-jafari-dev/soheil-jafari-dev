@@ -82,7 +82,11 @@ Production-ready E-Commerce
 ✔ NestJS
 
 ✔ Next.js
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soheil-jafari-dev&show_icons=true)
+
+  <br />
+ <a href="https://github.com/soheil-jafari-dev/stripe-shop" target="_blank">
+      The Last Project
+    </a>
  
   <br />
   <h3 align="left">my social</h3>
