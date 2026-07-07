@@ -83,13 +83,10 @@ Production-ready E-Commerce
 
 ✔ Next.js
 
-  <br />
- <a href="https://github.com/soheil-jafari-dev/stripe-shop" target="_blank">
-      The Last Project
-    </a>
+ <a href="https://github.com/soheil-jafari-dev/stripe-shop" target="_blank">Link</a>
  
   <br />
-  <h3 align="left">my social</h3>
+ ## 🚀 My Social
   <div align="left">
     <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
       <img
