@@ -1,3 +1,8 @@
+  <h3 align="left">🚀 Full Stack Developer</h3>
+  <h3 align="left">⚡ Next.js • NestJS • PostgreSQL • Docker</h3>
+  <h3 align="left">🌍 Building scalable web applications</h3>
+
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   <h3 align="left">Tech Stack</h3>
 
@@ -48,9 +53,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 
 </p> 
-  <h3 align="left">🚀 Full Stack Developer</h3>
-  <h3 align="left">⚡ Next.js • NestJS • PostgreSQL • Docker</h3>
-  <h3 align="left">🌍 Building scalable web applications</h3>
+<br/>
 
   ## 👨‍💻 About Me
 
@@ -63,6 +66,7 @@
 - Interested in DevOps
 
 - Always learning new technologies
+<br/>
 
 
 ## 🚀 Featured Project
@@ -83,11 +87,11 @@ Production-ready E-Commerce
 
 ✔ Next.js
 
- <a href="https://github.com/soheil-jafari-dev/stripe-shop" target="_blank">Link</a>
+ ✔ <a href="https://github.com/soheil-jafari-dev/stripe-shop" target="_blank">Link</a>
+ <br/>
  
 
 ## 🚀 My Social
-
 
   <div align="left">
     <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
@@ -116,14 +120,14 @@ Production-ready E-Commerce
     </a>
   </div>
 <br />
-  <h3 align="left">my website : mernfa.ir</h3>
+ <br/>
+ 
+
+## 🚀 Website
+
+
   <a href="https://mernfa.ir" target="_blank">
-      <img
-        src="https://mernfa.ir/logo.png"
-        width="52"
-        height="52"
-        alt="mernfa logo"
-      />
+      mernfa.ir
     </a>
   <br />
 
