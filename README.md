@@ -1,5 +1,5 @@
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00C4FF&width=700&lines=👋+Hi,+I'm+Soheil+Jafari;🚀+Full+Stack+Developer;⚡+Next.js+•+NestJS+•+PostgreSQL+•+Docker;🌍+Building+Production-Ready+Web+Applications"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00C4FF&width=700&lines=👋+Hi,+I'm+Soheil+Jafari;💻+Full+Stack+Developer;⚙️+Backend+•+DevOps+•+Frontend;🚀+Next.js+•+NestJS+•+Docker+•+PostgreSQL"
 />
 
 
