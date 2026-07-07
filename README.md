@@ -13,12 +13,7 @@
 <img src="https://skillicons.dev/icons?i=linux" height="45"/>
 </p>
 <p>
- <br/> ✔ <b>Full Stack Developer</b>  <br/> ✔ Specialized in <b>Next.js & NestJS</b>
- <p></p>
- <p>✔ Specialized in <b>Next.js & NestJS</b></p>
- <p>✔ Passionate about Backend Architecture</p>
- <p>✔ Interested in <b>DevOps</b></p>
- <p>✔ Always learning new technologies</p>
+ <br/> ✔ <b>Full Stack Developer</b>  <br/> ✔ Specialized in <b>Next.js & NestJS</b> <br/> ✔ Specialized in <b>Next.js & NestJS</b> <br/> ✔ Passionate about Backend Architecture  <br/> ✔ Interested in <b>DevOps</b> <br/> ✔ Always learning new technologies
 </p>
 
 <p>⚡ If you’d like to get in touch, feel free to say hello through any of the social medias.</p>
