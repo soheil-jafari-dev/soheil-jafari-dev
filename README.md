@@ -14,7 +14,7 @@
 </p>
 <p>
  I am a <b>Full Stack Developer
- <p>✔ Specialized in <b>Next.js & NestJS</b></p>
+ <p>✔ Specialized in <b>Next.js & NestJS</p>
  <br/> ✔ Passionate about Backend Architecture<br/>✔ Interested in <b>DevOps</b><br/> ✔ Always learning new technologies
 </p>
 
