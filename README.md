@@ -1,56 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80++Full+Stack+Developer;%E2%9A%A1+Next.js%E2%80%A2NestJS%E2%80%A2Postgres%E2%80%A2Docker;%F0%9F%8C%8D+Building+scalable+web+applications)](https://git.io/typing-svg)
 
-
-
+  <h3 align="left">Hi there</h3>
+  
   <h3 align="left">Tech Stack</h3>
-
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
-
 <img src="https://skillicons.dev/icons?i=ts" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-
-</p>
-
-<p align="left">
-
 <img src="https://skillicons.dev/icons?i=nestjs" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-
 <img src="https://skillicons.dev/icons?i=express" height="45"/>
-
-</p>
-
-<p align="left">
-
 <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-
 <img src="https://skillicons.dev/icons?i=prisma" height="45"/>
-
 <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+<img src="https://skillicons.dev/icons?i=nginx" height="45"/>
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
 </p>
 
-<p align="left">
 
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=nginx" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=linux" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-
-</p> 
 <br/>
 
   ## 👨‍💻 About Me
