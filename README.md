@@ -16,11 +16,9 @@
  <br/> ✔ <b>Full Stack Developer</b>  <br/> ✔ Specialized in <b>Next.js & NestJS</b> <br/> ✔ Specialized in <b>Next.js & NestJS</b> <br/> ✔ Passionate about Backend Architecture  <br/> ✔ Interested in <b>DevOps</b> <br/> ✔ Always learning new technologies
 </p>
 
+<a href="https://mernfa.ir" target="_blank">Last Projects In My Websote</a>
+<br/>
 <p>⚡ If you’d like to get in touch, feel free to say hello through any of the social medias.</p>
-   <a href="https://mernfa.ir" target="_blank"  width="52"
-        height="40">
-    My Wesbite
-    </a>
 <div align="left">
     <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
       <img
