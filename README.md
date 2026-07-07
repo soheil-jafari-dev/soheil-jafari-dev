@@ -1,7 +1,5 @@
-
-<h3 align="left">Hi there</h3>
-<br/>
-<h3 align="left">Tech Stack</h3>
+<h4 align="left">Hi there</h3>
+<h4 align="left">Tech Stack</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
 <img src="https://skillicons.dev/icons?i=ts" height="45"/>
