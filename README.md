@@ -1,13 +1,5 @@
 
-  <h3 align="left">Hi there</h3>
-  <br/>
-<p>
-  I am Soheil. Full Stack Developer, Specialized in Next.js & NestJS, Passionate about Backend Architecture, Interested in DevOps and Always learning new technologies
-</p>
-## 🚀 Last Project (Production-ready E-Commerce)
-✔ Authentication . ✔ Stripe Payment . ✔ Docker Compose . ✔ Nginx Reverse Proxy . ✔ PostgreSQL . ✔ NestJS . ✔ Next.js
-
-
+<h3 align="left">Hi there</h3>
 <br/>
 <h3 align="left">Tech Stack</h3>
 <p align="left">
@@ -22,6 +14,16 @@
 <img src="https://skillicons.dev/icons?i=nginx" height="45"/>
 <img src="https://skillicons.dev/icons?i=linux" height="45"/>
 </p>
+<br/>
+<p>
+  I am Soheil. Full Stack Developer, Specialized in Next.js & NestJS, Passionate about Backend Architecture, Interested in DevOps and Always learning new technologies
+</p>
+## 🚀 Last Project (Production-ready E-Commerce)
+✔ Authentication . ✔ Stripe Payment . ✔ Docker Compose . ✔ Nginx Reverse Proxy . ✔ PostgreSQL . ✔ NestJS . ✔ Next.js
+
+
+<br/>
+
 <p>⚡ If you’d like to get in touch, feel free to say hello through any of the social medias.</p>
 <div align="left">
     <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
