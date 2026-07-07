@@ -51,6 +51,38 @@
   <h3 align="left">🚀 Full Stack Developer</h3>
   <h3 align="left">⚡ Next.js • NestJS • PostgreSQL • Docker</h3>
   <h3 align="left">🌍 Building scalable web applications</h3>
+
+  ## 👨‍💻 About Me
+
+- Full Stack Developer
+
+- Specialized in Next.js & NestJS
+
+- Passionate about Backend Architecture
+
+- Interested in DevOps
+
+- Always learning new technologies
+
+
+## 🚀 Featured Project
+
+Production-ready E-Commerce
+
+✔ Authentication
+
+✔ Stripe Payment
+
+✔ Docker Compose
+
+✔ Nginx Reverse Proxy
+
+✔ PostgreSQL
+
+✔ NestJS
+
+✔ Next.js
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soheil-jafari-dev&show_icons=true)
  
   <br />
   <h3 align="left">my social</h3>
@@ -71,7 +103,7 @@
         alt="youtube logo"
       />
     </a>
-    <a href="https://t.me/mernfa" target="_blank">
+    <a href="https://t.me/soheil_next_dev" target="_blank">
       <img
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
         width="52"
