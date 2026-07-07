@@ -1,4 +1,53 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
+  <h3 align="left">Tech Stack</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=ts" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+
+</p>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nestjs" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
+
+</p>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=prisma" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+
+</p>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=nginx" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+</p>
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%98%89+Hello%2C+I+am+Soheil+Jafari;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Fullstack+Developer+with+Next.js+%26+Node.js;%F0%9F%92%BB+My+website+is+mernfa.ir"
     alt="Typing SVG"
