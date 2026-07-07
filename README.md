@@ -1,4 +1,4 @@
-<h4 align="left">Hi there</h3>
+<h3 align="left">Hi there</h3>
 <h4 align="left">Tech Stack</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
