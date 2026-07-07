@@ -53,31 +53,6 @@
   </div>
 
 
-## 🚀 Featured Project
-
-Production-ready E-Commerce
-
-✔ Authentication
-
-✔ Stripe Payment
-
-✔ Docker Compose
-
-✔ Nginx Reverse Proxy
-
-✔ PostgreSQL
-
-✔ NestJS
-
-✔ Next.js
-
- ✔ <a href="https://github.com/soheil-jafari-dev/stripe-shop" target="_blank">Link</a>
- <br/>
- 
-
-## 🚀 My Social
-
-  
-
- <br/>
-
+## 🚀 Last Project (Production-ready E-Commerce)
+✔ Authentication . ✔ Stripe Payment . ✔ Docker Compose . ✔ Nginx Reverse Proxy . ✔ PostgreSQL . ✔ NestJS . ✔ Next.js
+✔ <a href="https://github.com/soheil-jafari-dev/stripe-shop" target="_blank">Link</a>
