@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80++Full+Stack+Developer;%E2%9A%A1+Next.js+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;%F0%9F%8C%8D+Building+scalable+web+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80++Full+Stack+Developer;%E2%9A%A1+Next.js+%E2%80%A2+NestJS+%E2%80%A2+Postgres+%E2%80%A2+Dockrr;%F0%9F%8C%8D+Building+scalable+web+applications)](https://git.io/typing-svg)
 
 
 
